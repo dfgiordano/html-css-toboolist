@@ -1,0 +1,48 @@
+/* *{
+    margin: 0;
+    box-sizing: border-box;
+} */
+/* header */
+h1 {
+    display: inline-block;
+    line-height: 70px;
+}
+
+/* sezione1 */
+.riquadro {
+    display: inline-block;
+    line-height: 30px;
+    border-radius: 10%;
+    text-align: center;
+}
+#button1{
+    background-color: #47ADF1; 
+    color: white;
+    width: 80px;
+}
+#button2{
+    background-color:white;
+    width: 110px;
+    border: 1px solid grey;
+    color: grey;
+}
+
+.riquadro-blu{
+    display: inline-block;
+    line-height: 20px;
+    width: 80px;
+    background-color: #47ADF1;
+    text-align: center;
+    border-radius: 35px;
+    color: white;
+}
+
+.display {
+    display: inline-block;
+}
+.red-icon {
+    color: red;
+}
+
+
+
