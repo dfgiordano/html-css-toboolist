@@ -6,6 +6,10 @@
 h1 {
     display: inline-block;
     line-height: 70px;
+    vertical-align: middle;
+}
+img{
+    vertical-align: middle;
 }
 
 /* sezione1 */
@@ -98,5 +102,9 @@ h1 {
 
 main{
     margin-left: 50px;
+}
+
+li{
+    list-style: none;
 }
 
