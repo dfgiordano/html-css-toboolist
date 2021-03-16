@@ -26,7 +26,6 @@ h1 {
     border: 1px solid #C5CBD0;
     color: #C5CBD0;
 }
-
 .riquadro-blu{
     display: inline-block;
     line-height: 20px;
@@ -37,28 +36,14 @@ h1 {
     color: white;
     font-size: 12px;
 }
-
-.display {
-    display: inline-block;
-}
+/* pallini */
 .red-icon {
     color: red;
 }
 .green-icon {
     color: green;
 }
-
-#green {
-    display: inline-block;
-    line-height: 20px;
-    text-align: center;
-    border-radius: 35px;
-    color: white;
-    background-color: #64C0A9;
-    font-size: 12px;
-    width: 70px;
-}
-
+/* sezione2 */
 #purple {
     display: inline-block;
     text-align: center;
@@ -69,7 +54,16 @@ h1 {
     width:70px;
     font-size: 12px;
     }
-
+#green {
+    display: inline-block;
+    line-height: 20px;
+    text-align: center;
+    border-radius: 35px;
+    color: white;
+    background-color: #64C0A9;
+    font-size: 12px;
+    width: 70px;
+}
 #orange {
     display: inline-block;
     text-align: center;
@@ -80,7 +74,7 @@ h1 {
     width:60px;
     font-size: 12px;
 }
-
+/* footer */
 #pink {
     display: inline-block;
     text-align: center;
@@ -91,7 +85,6 @@ h1 {
     width:60px;
     font-size: 12px;
 }
-
 #olive {
     display: inline-block;
     text-align: center;
@@ -101,5 +94,9 @@ h1 {
     color: white;
     width:50px;
     font-size: 12px;
+}
+
+main{
+    margin-left: 50px;
 }
 
