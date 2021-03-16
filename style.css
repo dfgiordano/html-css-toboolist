@@ -1,7 +1,7 @@
-/* *{
-    margin: 0;
-    box-sizing: border-box;
-} */
+*{
+    font-family: work sans;
+    line-height: 30px;
+}
 /* header */
 h1 {
     display: inline-block;
@@ -18,13 +18,13 @@ h1 {
 #button1{
     background-color: #47ADF1; 
     color: white;
-    width: 80px;
+    width: 90px;
 }
 #button2{
     background-color:white;
     width: 110px;
-    border: 1px solid grey;
-    color: grey;
+    border: 1px solid #C5CBD0;
+    color: #C5CBD0;
 }
 
 .riquadro-blu{
@@ -44,6 +44,9 @@ h1 {
 .red-icon {
     color: red;
 }
+.green-icon {
+    color: green;
+}
 
 #green {
     display: inline-block;
@@ -57,6 +60,7 @@ h1 {
 }
 
 #purple {
+    display: inline-block;
     text-align: center;
     line-height: 20px;
     background-color: #9C72E4;
@@ -65,20 +69,37 @@ h1 {
     width:70px;
     font-size: 12px;
     }
-}
 
 #orange {
     display: inline-block;
     text-align: center;
     line-height: 20px;
-    background-color:#F29E33;
+    background-color: #F29E33;
     border-radius: 35px;
     color: white;
-    width:70px;
+    width:60px;
     font-size: 12px;
 }
 
+#pink {
+    display: inline-block;
+    text-align: center;
+    line-height: 20px;
+    background-color:#D863A1;
+    border-radius: 35px;
+    color: white;
+    width:60px;
+    font-size: 12px;
+}
 
-
-
+#olive {
+    display: inline-block;
+    text-align: center;
+    line-height: 20px;
+    background-color: #B0C926;
+    border-radius: 35px;
+    color: white;
+    width:50px;
+    font-size: 12px;
+}
 
